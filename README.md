@@ -1,9 +1,9 @@
 *This is a template repository for this organization. Start by replacing the placeholder for the project name with its actual title.*
 
-# [Demonstration Project title]
+# [Testing of Intelligent robot-assembly workplace for the production of bag filters in Vado Filters OÜ]
 
 ## Summary
-| Company Name | [Company](https://website.link) |
+| Vado Filters OÜ | [Company](https://website.link) |
 | :--- | :--- |
 | Development Team Lead Name | [Dr. John Smith](https://profile.link) |
 | Development Team Lead E-mail | [email@example.com](mailto:email@example.com) |
