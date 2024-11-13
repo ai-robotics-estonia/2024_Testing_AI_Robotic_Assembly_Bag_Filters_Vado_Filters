@@ -3,7 +3,7 @@
 # [Testing of Intelligent robot-assembly workplace for the production of bag filters in Vado Filters OÜ]
 
 ## Summary
-| Vado Filters OÜ | [Company](https://website.link) |
+| Company | [Vado Filters OÜ](https://website.link) |
 | :--- | :--- |
 | Development Team Lead Name | [Dr. John Smith](https://profile.link) |
 | Development Team Lead E-mail | [email@example.com](mailto:email@example.com) |
