@@ -60,6 +60,7 @@ Additional investments in development the filter assembly frame for using  EOAT 
 4.	Designed the final product for robot assembly – designed new filter bags’ holding frame and manufactured it with 3D printing
 5.	Understand how to make the robot assembly system smart and flexible what would work like human being
 6.	Designed the user-interface and used it for manipulating robot in a robot assembly cell
+
 Conclusion: Testing showed that the technological solution for robot-assembly of bag filters which was achieved for the end of the project was successful. This was the first robot-based operation. To carry out the robot-assembly process completely, it is planned to robotize also the second operation – fixing upper and lower frame with the filter bags. Then the final solution  could be implemented industrially.
 
 ### Technical Architecture
