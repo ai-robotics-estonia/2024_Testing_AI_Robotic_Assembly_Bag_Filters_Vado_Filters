@@ -32,8 +32,9 @@ Additional investments in development the filter assembly frame for using  EOAT 
 
 ### Data Sources
 *Please describe which data was used for the technological solution.*  
+
 - Vado Filters OÜ production layout,
-  Technical task description (company’s objectives),
+- Technical task description (company’s objectives),
 - Test bag filter system selected as a prototype,
 - Filter bags 3D model,
 - Final assembly principles,
@@ -47,6 +48,7 @@ Additional investments in development the filter assembly frame for using  EOAT 
 
 ### AI Technologies
 *Please describe and justify the use of selected AI technologies.*
+
 - AI in this field is used for creating intelligent robot-based assembly workplace that work and react like human. There are two main areas: to understand the position of a filter-bag and correspondingly to determine the needed movements of the robot and the second, depending on the measures and material of filter bag to determine the needed power for EOAT to press with robot the two sides of filter frame together. This is an area of machine learning where decisions have been made based on big data and knowledge acquisition algorithms. The implementation of this in the real world gives explosive and broader use of robot in this case. 
 
 ### Technological Results
@@ -62,14 +64,13 @@ Conclusion: Testing showed that the technological solution for robot-assembly of
 
 ### Technical Architecture
 *Please describe the technical architecture (e.g, presented graphically, where the technical solution integration with the existing system can also be seen).*
+
 The main elements of the workplace for robot assembly of bag filters are:
 -	the assembly robot UR 10 (Universal Robots cobot type UR 10 was used), 
 -	the table for positioning the filter bags to be assembled, 
 -	the jig for fixing the bottom of the frame and bag filters guide and 
 -	needle grippers with possibility to dimension the grip force (not to damage the bags to be assembled). 
 These elements for assembly workplace were developed physically during the project. Also, assembly workplace as a whole was developed considering the optimization of the robot’s working cycle.  
-
-![backend-architecture](https://github.com/ai-robotics-estonia/_project_template_/assets/15941300/6d405b21-3454-4bd3-9de5-d4daad7ac5b7)
 
 
 ### User Interface 
@@ -80,6 +81,7 @@ The plan is to develop an integrated user interface based on various external de
 
 ### Future Potential of the Technical Solution
 *Please describe the potential areas for future use of the technical solution.*
+
 - Assembly systems with intelligent grippers
 - Filter bags assembly systems development
 - Textile industry, for example for sewing pillowcases and bed sheets.
