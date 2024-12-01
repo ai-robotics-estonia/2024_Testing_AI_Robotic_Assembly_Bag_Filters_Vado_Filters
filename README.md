@@ -1,12 +1,12 @@
 *This is a template repository for this organization. Start by replacing the placeholder for the project name with its actual title.*
 
-# [Testing of Intelligent robot-assembly workplace for the production of bag filters in Vado Filters OÜ]
+# Testing of Intelligent robot-assembly workplace for the production of bag filters in Vado Filters OÜ
 
 ## Summary
-| Company | [Vado Filters OÜ] |
+| Company | Vado Filters OÜ |
 | :--- | :--- |
-| Development Team Lead Name | [Tõnu Lelumees] |
-| Development Team Lead E-mail | [tonu.lelumees@imecc.ee](mailto:email@example.com) |
+| Development Team Lead Name | Tõnu Lelumees |
+| Development Team Lead E-mail | tonu.lelumees@imecc.ee (mailto:email@example.com) |
 | Duration of the Demonstration Project | 11/2023-08/2024|
 | Final Report | [Example_report.pdf](https://github.com/ai-robotics-estonia/_project_template_/files/13800685/IC-One-Page-Project-Status-Report-10673_PDF.pdf) |
 
